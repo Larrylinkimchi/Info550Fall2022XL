@@ -5,8 +5,9 @@ date: "2022-10-13"
 output: github_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 # My First Commit
 I will add some text here
+
+# My Second Commit
+I will add more text here
