@@ -1,0 +1,12 @@
+---
+title: "Git Repo"
+author: "Xiuran Lin"
+date: "2022-10-13"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# My First Commit
+I will add some text here
